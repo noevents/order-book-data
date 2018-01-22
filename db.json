@@ -1,0 +1,16 @@
+{
+  "bids": [
+    {"price": 105, "count": 84796},
+    {"price": 104, "count": 13944},
+    {"price": 103, "count": 14170},
+    {"price": 102, "count": 9302},
+    {"price": 101, "count": 724}
+  ],
+  "asks": [
+    {"price": 99, "count": 123},
+    {"price": 98, "count": 85037},
+    {"price": 97, "count": 34617},
+    {"price": 96, "count": 40530},
+    {"price": 95, "count": 90877}
+  ]
+}
